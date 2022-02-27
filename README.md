@@ -2,6 +2,8 @@
 
 # Arquitetura hexagonal para melhores microsserviços
 
+![Honeybee](./_honeybee.png)
+
 </div>
 
 **Trilha:** Microservices (Recife e Online)

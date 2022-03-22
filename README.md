@@ -15,7 +15,13 @@ com microsserviços e explorar o desenvolvimento com uma arquitetura hexagonal
 utilizando ports e adaptors em microsserviços que permitem separar a lógica de
 negócio de seus serviços.
 
-O exemplo será em TypeScript, o que significa que deve ser bem simples
-transferir o conhecimento para outras linguagens e ainda que utilize AWS, um dos
-pontos fortes é que a arquitetura hexagonal permite trocar para outras nuvens,
-para outros serviços.
+O exemplo será em TypeScript, o que significa que será possível transferir o
+conhecimento para outras linguagens e ainda que utilize AWS, um dos pontos
+fortes é que a arquitetura hexagonal permite trocar para outras nuvens, para
+outros serviços.
+
+### Fluxograma
+
+```mermaid
+
+```

@@ -20,8 +20,14 @@ conhecimento para outras linguagens e ainda que utilize AWS, um dos pontos
 fortes é que a arquitetura hexagonal permite trocar para outras nuvens, para
 outros serviços.
 
-### Fluxograma
+```ts
+import { Handler } from "aws-lambda";
 
-```mermaid
+export const handler: Handler = async (event, _context) => {
+  console.info(event);
 
+  return {
+    statusCode: 200,
+  };
+};
 ```

@@ -1,6 +1,6 @@
 #### Working in progress
 
-> Preciso documentar um pouco melhor. Talvez vou até escrever uma postagem.
+> Preciso documentar um pouco melhor. Talvez vou até escrever uma postagem. Voltem em alguns dias :)
 
 <div align="center">
 
